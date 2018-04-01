@@ -34,7 +34,7 @@
 
 Nos conectamos a la URL y vemos un formulario web para hacer login, ambientado en el juego de Dragones y Mazmorras.
 
-![Imagen](vault1.png "Imagen de Morfeo")
+![Imagen](vault1.png "Login")
 
 Intentamos entrar con unas credenciales de prueba.
 
